@@ -1,0 +1,7 @@
+SaturatedFAME
+bed1 = Rank(1)=74
+bed2 = Rank(2)=87 or Rank(3)=87
+bed3 = Abundance(55)>150 And Abundance(55)<400
+bed4 = abundance(57)<350
+bed5 = abundance(59)>50
+
